@@ -1,6 +1,6 @@
-# stats254
+# mfanotupu
 
-> My unreal Nuxt.js project
+> My cat&#39;s meow Nuxt.js project
 
 ## Build Setup
 
